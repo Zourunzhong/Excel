@@ -1,6 +1,6 @@
 # Excel
 
-NUS Data science module planner
+NUS Module Planner for Data Science & Analytics
 
 Helps you count and calculate whether you have met your graduation requirements 
 
